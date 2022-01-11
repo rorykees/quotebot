@@ -1,5 +1,0 @@
-module.exports = {
- api_key: wLiBYxgubeUjGWGaiR261MK5o,
- api_key_secret: eAjuX19ncnfb7hEzHVNm4RnO9SoocQSdHh1VopOqpuLigA3qfU,
- bearer_token: "AAAAAAAAAAAAAAAAAAAAAGgEYAEAAAAAueId0HdycR%2FiJlIJ8aOG9enPj4o%3Dl1a8HEufUF393xS7IcWaPyqK6qTKAvKIb09Qda3gzQXr47bkMw"  
-}
